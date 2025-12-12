@@ -30,3 +30,6 @@ replay_pid*
 # out
 out
 target
+
+# Intellij IDE
+.idea
