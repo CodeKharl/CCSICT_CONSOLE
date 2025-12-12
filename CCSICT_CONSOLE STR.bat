@@ -1,1 +1,0 @@
-cd "%userprofile%\Desktop\Java\CCSICT_CONSOLE\out\artifacts\CCSICT_CONSOLE_jar\" && java -jar --enable-preview CCSICT_CONSOLE.jar
