@@ -31,5 +31,8 @@ replay_pid*
 out
 target
 
+# jar
+*.jar
+
 # Intellij IDE
 .idea
